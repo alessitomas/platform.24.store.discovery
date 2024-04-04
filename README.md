@@ -1,1 +1,1 @@
-# platform.241.store.discovery
+# platform.24.store.discovery
